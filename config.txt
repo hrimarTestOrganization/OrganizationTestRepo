@@ -1,1 +1,6 @@
-Viktor is my name; 500 is my size; viktor@abv.bg is my e-mail.
+- names:
+Asen; Biser; Dimo Dimov
+- sizes:
+100; 200; 300
+- e-mails:
+asen@abv.bg; biso@abv.bg; dimo-dimov@abv.bg

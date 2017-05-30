@@ -1,6 +1,6 @@
 - names:
-Asen; Biser; Dimo Dimov
+Asen; Biser; Dimo Dimov; Sava Sevatrokratolus; Viktor.
 - sizes:
-100; 200; 300
+100; 200; 300; 400; 500.
 - e-mails:
-asen@abv.bg; biso@abv.bg; dimo-dimov@abv.bg
+asen@abv.bg; biso@abv.bg; dimo-dimov@abv.bg; savata@yahoo.com; viktor@abv.bg.

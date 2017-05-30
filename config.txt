@@ -1,6 +1,5 @@
--names:
-Asen; Biser; Dimo Dimov
--sizes:
-100; 200; 300
--e-mails:
-asen@abv.bg; biso@abv.bg; dimo-dimov@abv.bg
+Sava
+
+400
+
+savata@yahoo.com
